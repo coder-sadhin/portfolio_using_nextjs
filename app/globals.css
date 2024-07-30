@@ -78,5 +78,9 @@
   .text-outline-hover {
     -webkit-text-stroke: 1px #00ff99;
   }
+
+  .input {
+    border-radius: 0.375rem !important; /* Tailwind's rounded-md value */
+  }
 }
 
